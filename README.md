@@ -9,6 +9,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
+### Results
+
+|                                                           2차 프로젝트 - 마이페이지                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/75000708/218014869-c2113f28-d43e-42c8-8bac-37b08e6e1536.gif" alt="main" width="500"/> |
+| [소스코드 확인](https://github.com/sangheon-k/41-2nd-BossBaby-front/tree/main/src/pages/Mypage) |
+
+
 ### :clipboard: Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangheon-k&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangheon-k&layout=compact&theme=transparent)
