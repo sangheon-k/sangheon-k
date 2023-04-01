@@ -11,10 +11,11 @@
 
 ### Results
 
-|                                                           2차 프로젝트 - 마이페이지                                                            |
+| 2차 프로젝트 - 마이페이지 [(소스코드 확인)](https://github.com/sangheon-k/41-2nd-BossBaby-front/tree/main/src/pages/Mypage) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/75000708/218014869-c2113f28-d43e-42c8-8bac-37b08e6e1536.gif" alt="main" width="500"/> |
-| [소스코드 확인](https://github.com/sangheon-k/41-2nd-BossBaby-front/tree/main/src/pages/Mypage) |
+| 2차 프로젝트 - 결제페이지 [(소스코드 확인)](https://github.com/sangheon-k/41-2nd-BossBaby-front/tree/main/src/pages/Payment) |
+| <img src="https://user-images.githubusercontent.com/117249829/218239816-88eedc5e-8152-4d24-a278-0191f4d33b06.gif" alt="main" width="500"/> |
 
 
 ### :clipboard: Status
